@@ -98,6 +98,8 @@ To have more data, the following tracks were capture:
   - One track driving backward.
 - Three second track driving forward.
 
-All these data was used for training the model with three epochs. The data was shuffled randomly. 
+All these data was used for training the model with three epochs. The data was shuffled randomly. The following picture shows the training:
 
-After this training, the car was driving down the road all the time on the [first](run1.mp4) track. 
+![Model Mean-square ](model_mse_lost.png)
+
+
